@@ -15,3 +15,7 @@ The project is divided into two parts:
 - Analysis and characterization of South African surface waters.
 - Prediction of water quality (Water Quality Index, Inorganic Chemistry Index and Sodium Adsorption Ratio) using Supervised Learning Regression Algorithms.
 
+## **Prerequisites**
+
+-To run the Jupyter notebook, Python is a requirement (Python 3.3 or greater, or Python 2.7).
+-To open the Tableau visualizations, please download [Tableau] (https://www.tableau.com/).
