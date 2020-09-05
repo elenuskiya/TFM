@@ -19,4 +19,20 @@ The project is divided into two parts:
 
 -To run the Jupyter notebook, Python is a requirement (Python 3.3 or greater, or Python 2.7).
 
--To open the Tableau visualizations, please download [Tableau] (https://www.tableau.com/).
+-To open the Tableau visualizations, please download Tableau.
+
+## Libraries
+
+- Pandas
+
+- Numpy
+
+- Seaborn
+
+- Matplotlib
+
+- Altair
+
+- Ternary
+
+- Sklearn
