@@ -15,7 +15,7 @@ The project is divided into two parts:
 - Analysis and characterization of South African surface waters.
 - Prediction of water quality (Water Quality Index, Inorganic Chemistry Index and Sodium Adsorption Ratio) using Supervised Learning Regression Algorithms.
 
-## **Prerequisites**
+## Prerequisites
 
 -To run the Jupyter notebook, Python is a requirement (Python 3.3 or greater, or Python 2.7).
 
@@ -36,3 +36,26 @@ The project is divided into two parts:
 - Ternary
 
 - Sklearn
+
+## Files to run
+
+- *00_Cleaning_manipulation_and_unification.ipynb*- Data cleaning and manipulation
+
+- *01_Part_1_Analysis_and_Characterization_of_surface_waters.ipynb*- Analysis of the most important chemical parameters of the water of the surface waters of South Africa, characterization of the surface waters, ternary diagrams and study of the Vaal River.
+
+- *02_Part_2.1_Prediction_of_the_Water_Quality_Index.ipynb*- Prediction of the Water Quality Index using Supervised Learning Regression algorithms.
+
+- *03_Part_2.2_Prediction_of_the_Inorganic_Chemistry_Index.ipynb*-Prediction of the Inorganic Chemistry Index using Supervised Learning Regression algorithms.
+
+- *04_Part_2.3_Prediction_of_the_Sodium_Adsorption_Ratio.ipynb*-Prediction of the Sodium Adsorption Ratio using Supervised Learning Regression algorithms.
+
+## Visualizations
+
+- *Part_1_general_visualizations.twbx*- Visualizations of the analysis of the chemical parameters of the water in South Africa, the regions and the measurement stations.
+
+- *Part_1_chemical_characterization.twbx*- Visualizations of the characterization of surface waters.
+
+- *Part_1_Vaal_river.twbx*- Visualizations of the Vaal River.
+
+
+
