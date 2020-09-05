@@ -1,7 +1,7 @@
 # Water quality in South Africa
 ### TFM: KSchool Data Science Master
 
-## Overview
+## **Overview**
 
 The aim of the project is the study of the quality of the water derived from inorganic chemistry. The data are collected  through the monitoring of the water in 1,045 stations of rivers, dams and lakes that are distributed in 21 drainage regions in South Africa.
 
