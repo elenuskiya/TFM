@@ -57,5 +57,17 @@ The project is divided into two parts:
 
 - *Part_1_Vaal_river.twbx*- Visualizations of the Vaal River.
 
+**You will also find a .pdf document in which you will find details of how to navigate in this repository.**
+In this document you will also find the origin of the information, how to interpret the visualization, and some conclusions.
+
+## References
+
+Jan Marten Huizenga, Michael Silberbauer, Rainier Dennis, Ingrid Dennis (2013) “*An inorganic water chemistry dataset (1972–2011) of rivers, dams and lakes in South Africa*“ . Water SA vol.39 n.2 Pretoria Jan.2013.
+
+P. Krishnakumar, C. Lakshumanan, V. Pradeep Kishore, V. Pradeep Kishore, G. Santhiya, G. Santhiya (2013). “*Assessment of groundwater quality in and around Vedaraniyam, South India*”. Springer-Verlag Berlin Heidelberg 2013. 
+
+JM Huizenga (2011). “*Characterisation of the inorganic chemistry of surface waters in South Africa*”. African Journals Online. 
+
+Hohls, BC, Silberbauer, MJ, K¸hn, AL, Kempster (2002) “*National water resource quality status report: inorganic chemical water quality of surface water resources in SA*”. Departmen of Water Affairs and Forestry, Institute for Water Quality Studis. Private Bag X313, Pretoria 0001. 
 
 
